@@ -2,7 +2,7 @@ import { useRef } from 'react';
 import DisplaySection from './components/DisplaySection';
 import Nav from './components/Nav';
 import SoundSection from './components/SoundSection';
-import Jumbotron from './components/jumbotron';
+import Jumbotron from './components/Jumbotron';
 import WebgiViewer from './components/WebgiViewer';
 
 function App() {
